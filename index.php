@@ -1,4 +1,7 @@
 <?php
+
+// TESTING BRANCH DEV
+
 error_reporting(E_ERROR | E_PARSE);
 define("SITEURL", "http://localhost/blowfish");
 define("HEX", "0123456789ABCDEF");
