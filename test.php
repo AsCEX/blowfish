@@ -40,3 +40,5 @@ echo "Plain Text: <strong>". $plain_text."</strong><br />";
 echo sprintf("%.6f ",$time) . " seconds<br />";
 echo "</div>";
 ?>
+
+<!--- YAWAA LAGI -->
